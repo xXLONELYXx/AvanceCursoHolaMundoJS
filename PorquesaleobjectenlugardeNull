@@ -1,0 +1,8 @@
+Null type = Null
+
+null esta siendo utilizado cuando existe 
+un listado de objetos 
+enotonces lo que hace null es representar la ausencia de 
+de un objeto vacio 
+entonces para ECMASCRIPT hace sentido 
+que null devuelva objeto 

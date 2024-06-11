@@ -1,0 +1,9 @@
+ Que es refactorizar ?
+
+
+Cambiar la estructura interno, 
+pero sin alterar el comportamiento externo 
+hacer el codigo mas legible , y que tenga mejor rendimiento 
+sin embargo seguimos teniendo el mismo resultado .
+
+

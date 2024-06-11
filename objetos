@@ -1,0 +1,19 @@
+= {}; se le concoce como objeto literal
+estamos creando un objeto solamente con 
+esta sintaxis ={};
+es tipo de dato de Referencia
+
+
+Que son los objetos ?
+
+
+son una agrupacion de datos quer hacen sentido 
+tenerlos juntos 
+
+nombre "tanjiro",  Se le conoce como par llav valor
+lo que se encuentra a la izquierda toma el nombre de atributo 
+pero en JS se le llama como propiedad 
+
+
+anime "demon Slader",
+edad  18,

@@ -1,0 +1,21 @@
+PRIMITIVOS
+
+Cuando los buscamos se quedan guardados en el bloque que le fue asignado
+
+
+Number
+String
+Boolean
+Underfined
+Null
+
+
+
+De Referencia   
+
+ Cuando vallamos a buscarlos tendremos que saltar despues en otro bloque de memoria
+
+Array
+Object
+Funciones
+Clases

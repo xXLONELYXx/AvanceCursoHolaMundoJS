@@ -1,0 +1,23 @@
+TIPADO ESTATICO
+
+al momento de definir una 
+varibale automanticamente le 
+decimos cual sera su tipo de dato 
+
+{ string nomnbre = "hola"}
+{ nombre = 42;}
+***JAVA***
+
+TIPADO DINAMICO
+
+Nop es necesario 
+decirle cual sera el tipo de dato
+escribimos el nombre de la variable y le 
+asignamos un valor 
+
+
+nombre = "hola1;
+nombre = 423;
+***JAVASCRIPT****
+
+
