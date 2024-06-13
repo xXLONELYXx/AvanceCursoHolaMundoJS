@@ -17,4 +17,4 @@
             } 
 
             let nombre = nombreResolucion(3840, 2160);
-            console.log("la resolucion es : " + nombre)
+            console.log("la resolucion es : " + nombre) 
